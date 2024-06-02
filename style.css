@@ -318,8 +318,7 @@ margin-right: 10px;
 margin-top: -7px;
 }
 .nav_center {
-  float: left;
-  width: 66%;
+  width: 100%;
 }
 nav.mainmenu {
   position: relative;
