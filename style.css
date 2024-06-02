@@ -325,7 +325,7 @@ nav.mainmenu {
   position: relative;
 }
 nav.mainmenu::after {
-  border-top: 4px solid #fff;
+  border-top: 0 solid #fff;
   content: "";
   left: 0;
   position: absolute;
@@ -484,7 +484,7 @@ color:#FF6766;
 color:#FF6766;
 }
 .mainmenu ul#nav li a {
-  border-top: 4px solid #fff;
+  border-top: 4px solid #f06160;
 color: #fff;
 display: block;
 font-weight: 700;
